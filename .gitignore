@@ -69,3 +69,7 @@ instance/
 # Virtualenv
 venv/
 .venv/
+
+# VIM swap files
+*.swp
+*.swo
